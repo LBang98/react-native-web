@@ -1,0 +1,6 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-native" // JSX를 React Native 스타일로 컴파일
+  }
+}
